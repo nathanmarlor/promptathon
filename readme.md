@@ -1,4 +1,4 @@
-# 🚀 Microsoft 365 Copilot Mini-Hackathon
+# 🚀 Copilot & Claude Mini-Hackathon
 
 A hands-on workshop for Executive Leadership Teams to build practical AI prompting skills using Microsoft 365 Copilot and Claude.
 
@@ -23,7 +23,7 @@ A hands-on workshop for Executive Leadership Teams to build practical AI prompti
 | [7](#level-7-document-generation) | Document Generation | Claude | 15-20 min | ⭐⭐ |
 | [8](#level-8-multi-step-workflows) | Multi-Step Workflows | Claude | 20-30 min | ⭐⭐⭐ |
 | [9](#level-9-custom-automation) | Custom Automation | Claude | 20-30 min | ⭐⭐⭐ |
-| [10](#level-10--challenge--build-a-custom-skill) | 🏆 Custom Skill Challenge | Claude | 30-45 min | ⭐⭐⭐⭐ |
+| [10](#level-10-challenge) | 🏆 Custom Skill Challenge | Claude | 30-45 min | ⭐⭐⭐⭐ |
 
 **Jump to:** [CLEAR Framework](#the-clear-framework) · [Quick Reference](#quick-reference) · [Resources](#resources)
 
@@ -108,6 +108,7 @@ Work through these at your own pace. Start with **Level 1** and progress as time
 
 ---
 
+<a name="level-1-summarise"></a>
 <details>
 <summary><strong>Level 1: Summarise</strong> · <code>⏱️ 5-7 min</code> <code>⭐ Beginner</code></summary>
 
@@ -179,6 +180,7 @@ Format as three separate lists.
 
 ---
 
+<a name="level-2-draft--rework"></a>
 <details>
 <summary><strong>Level 2: Draft & Rework</strong> · <code>⏱️ 7-10 min</code> <code>⭐ Beginner</code></summary>
 
@@ -259,6 +261,7 @@ Request: Same message, different tone. Show me what you changed.
 
 ---
 
+<a name="level-3-decide"></a>
 <details>
 <summary><strong>Level 3: Decide</strong> · <code>⏱️ 7-10 min</code> <code>⭐⭐ Intermediate</code></summary>
 
@@ -343,6 +346,7 @@ against this choice? Be specific, not generic.
 
 ---
 
+<a name="level-4-function-specific"></a>
 <details>
 <summary><strong>Level 4: Function-Specific</strong> · <code>⏱️ 10 min</code> <code>⭐⭐ Intermediate</code></summary>
 
@@ -554,6 +558,7 @@ Request:
 
 ---
 
+<a name="level-5-share--refine"></a>
 <details>
 <summary><strong>Level 5: Share & Refine</strong> · <code>⏱️ 5-10 min</code> <code>⭐ Group Activity</code></summary>
 
@@ -608,6 +613,7 @@ Request: [be more specific]
 
 ---
 
+<a name="level-6-data-analysis--visualisation"></a>
 <details>
 <summary><strong>Level 6: Data Analysis & Visualisation</strong> · <code>⏱️ 15-20 min</code> <code>⭐⭐ Intermediate</code></summary>
 
@@ -688,6 +694,7 @@ Include realistic patterns and a few anomalies for me to find.
 
 ---
 
+<a name="level-7-document-generation"></a>
 <details>
 <summary><strong>Level 7: Document Generation</strong> · <code>⏱️ 15-20 min</code> <code>⭐⭐ Intermediate</code></summary>
 
@@ -786,6 +793,7 @@ Include sample data showing how it works.
 
 ---
 
+<a name="level-8-multi-step-workflows"></a>
 <details>
 <summary><strong>Level 8: Multi-Step Workflows</strong> · <code>⏱️ 20-30 min</code> <code>⭐⭐⭐ Advanced</code></summary>
 
@@ -865,6 +873,7 @@ Step 6: Produce prioritised recommendations with:
 
 ---
 
+<a name="level-9-custom-automation"></a>
 <details>
 <summary><strong>Level 9: Custom Automation</strong> · <code>⏱️ 20-30 min</code> <code>⭐⭐⭐ Advanced</code></summary>
 
@@ -933,6 +942,7 @@ Format as a template I can apply to any opportunity.
 
 ---
 
+<a name="level-10-challenge"></a>
 <details>
 <summary><strong>Level 10: 🏆 Challenge — Build a Custom Skill</strong> · <code>⏱️ 30-45 min</code> <code>⭐⭐⭐⭐ Expert</code></summary>
 
