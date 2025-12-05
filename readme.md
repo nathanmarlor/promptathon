@@ -18,7 +18,7 @@ A hands-on workshop for Executive Leadership Teams to build practical AI prompti
 | [2](#level-2-draft--rework) | Draft & Rework | Copilot | 7-10 min | ⭐ |
 | [3](#level-3-decide) | Decide | Copilot | 7-10 min | ⭐ |
 | [4](#level-4-function-specific) | Function-Specific | Copilot | 10 min | ⭐⭐ |
-| [5](#level-5-share--refine) | Share & Refine | Group | 5-10 min | ⭐ |
+| [5](#level-5-share--refine) | Share & Refine | Group | 5-10 min |  |
 | [6](#level-6-data-analysis--visualisation) | Data Analysis | Claude | 15-20 min | ⭐⭐ |
 | [7](#level-7-document-generation) | Document Generation | Claude | 15-20 min | ⭐⭐ |
 | [8](#level-8-multi-step-workflows) | Multi-Step Workflows | Claude | 20-30 min | ⭐⭐⭐ |
