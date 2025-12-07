@@ -40,7 +40,16 @@
 Context: Q3 results showing operating profit down 42% vs budget.
 Main drivers: revenue shortfall from delayed deals, gross margin 
 compression from higher cloud costs. Some favourable OpEx variance.
-Audience: Business unit leaders, not finance people.
+
+Language: Plain English, no jargon. Lead with business impact.
+
+Examples: Structure as:
+- What happened (headline)
+- Why it matters
+- What we're doing about it
+
+Audience: Business unit leaders, not finance people. They want implications, 
+not accounting mechanics.
 
 Request: 
 1. Explain the Q3 performance in plain English (under 200 words)
@@ -97,6 +106,17 @@ Context: £450K investment request for customer portal upgrade.
 Claims 18-month payback based on call deflection and churn reduction.
 You need to prepare questions for the finance review meeting.
 
+Language: Critical, thorough. Challenge assumptions without being dismissive.
+
+Examples: Structure as:
+- Assumptions to test
+- Questions to ask
+- Weaknesses identified
+- Information gaps
+- Recommendation
+
+Audience: Me—preparing to challenge this case in a finance review.
+
 Request:
 1. What assumptions should be stress-tested?
 2. What questions will a sceptical CFO ask?
@@ -125,10 +145,19 @@ Request:
 Context: Board member (non-financial background) asking about 
 quick ratio improvement from 1.1 to 1.4.
 
+Language: Plain English. No jargon. Use analogies.
+
+Examples: Structure as:
+- What it is (simple definition)
+- Why it matters (practical impact)
+- What the change means (good/bad and why)
+
+Audience: Board member without financial background—they need to 
+understand significance without a finance lesson.
+
 Request: Explain in under 100 words:
 1. What quick ratio measures
 2. Why the improvement from 1.1 to 1.4 matters
 3. What it means for the business in practical terms
-No jargon. Use an analogy if helpful.
 ```
 

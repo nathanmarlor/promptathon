@@ -51,13 +51,19 @@ average 4.2 days cycle time. Uses Excel on shared drive and email
 for workflow. Known issues with version conflicts, lost requests, 
 and lack of visibility.
 
+Language: Analytical, practical. Focus on actionable improvements.
+
+Examples: Categorise findings as:
+- Quick wins (< 2 weeks, minimal cost)
+- Medium-term (1-3 months, moderate investment)
+- Strategic (requires capital/project)
+
+Audience: Operations leadership evaluating improvement options.
+
 Request: Analyse this process and provide:
 1. Identification of inefficiencies and bottlenecks
 2. Risk assessment (what could go wrong, what's the impact)
-3. Improvement recommendations categorised as:
-   - Quick wins (implement within 2 weeks, minimal cost)
-   - Medium-term (1-3 months, moderate investment)
-   - Strategic improvements (requires capital/project)
+3. Improvement recommendations in the three categories above
 4. Estimated impact of each recommendation
 ```
 
@@ -99,12 +105,18 @@ Context: 18-month ERP migration, £2.5M budget, 800 users.
 Key dependencies on data migration, integrations, vendor capacity, 
 and user adoption. Year-end freeze constraint.
 
+Language: Structured, comprehensive. Use standard risk management terminology.
+
+Examples: Format as a risk register table:
+| Risk | Likelihood | Impact | Score | Mitigation | Owner | Early Warning |
+
+Audience: Project governance board—they need to understand and approve risk exposure.
+
 Request: Create a risk register with:
 1. 10-12 likely risks for this type of project
 2. For each: likelihood (H/M/L), impact (H/M/L), risk score
 3. Mitigation strategies
 4. Suggested risk owners by function
 5. Early warning indicators
-Format as a table.
 ```
 

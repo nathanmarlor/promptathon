@@ -45,25 +45,45 @@ Copilot can help build model components, create dynamic formulas, and add analyt
 ### Building Model Components
 
 ```
-Create a [model type] model structure with:
+Context: I need a [model type] model for [purpose]. This will be used 
+[frequency: monthly/quarterly] by [who].
+
+Language: Clear structure, well-labelled. Follow financial modelling best practices.
+
+Examples: Structure as:
+- Inputs section (highlighted, editable)
+- Calculations section (formulas, protected)
+- Outputs section (summary dashboard)
+
+Audience: [Who will use this]—they have [skill level] Excel skills.
+
+Request: Create a [model type] model with:
 - Input section for: [list key inputs]
 - Calculation section that: [describe calculations]
 - Output section showing: [list key outputs]
 
-Use best practices:
-- Clear input cells (highlighted)
-- Named ranges for key variables
-- Summary outputs at the top
+Use best practices: clear input cells, named ranges, summary at top.
 ```
 
 ### Scenario Analysis
 
 ```
-Add scenario analysis capability to this model:
+Context: I have a model that needs scenario capability for [decision/planning].
+Key variables that could change: [list 2-3 variables].
+
+Language: Clear labelling of scenarios and assumptions.
+
+Examples: Three scenarios:
+- Base case (current assumptions)
+- Upside case (optimistic)
+- Downside case (pessimistic)
+
+Audience: [Decision-makers] who need to understand range of outcomes.
+
+Request: Add scenario analysis capability to this model:
 - Base case: [current assumptions]
 - Upside case: [optimistic assumptions]
 - Downside case: [pessimistic assumptions]
-
 Create a dropdown to toggle between scenarios.
 ```
 

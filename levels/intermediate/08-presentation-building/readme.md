@@ -45,19 +45,28 @@ Copilot can generate initial presentation drafts from prompts, transform documen
 ### Creating from Scratch
 
 ```
-Create a presentation about [topic].
+Context: I'm presenting on [topic] to [audience] in [timeframe].
+The goal is to [inform/persuade/get a decision/align stakeholders].
+Key message: [one sentence summary of what I want them to remember].
 
-Structure:
+Language: [Professional/inspiring/urgent/analytical].
+Minimal text per slide—this is spoken, not read.
+
+Examples: Structure as:
 1. Title slide
 2. Executive summary/agenda
-3. [Content slides - describe main sections]
+3. [Content sections - 3-4 main points]
 4. Recommendations/next steps
 5. Q&A slide
 
-Audience: [who]
-Purpose: [inform/persuade/decide]
-Length: [number] slides maximum
-Tone: [professional/inspiring/urgent]
+Audience: [Who]—they care about [their priorities].
+They will [support/challenge/question] this content.
+
+Request: Create a [X]-slide presentation. Include:
+- One clear message per slide
+- Maximum 3 bullets per slide (headlines, not sentences)
+- Speaker notes for each slide
+- Clear flow toward the recommendation
 ```
 
 ### Key Principles

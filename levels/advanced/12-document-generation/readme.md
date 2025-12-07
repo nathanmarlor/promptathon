@@ -45,30 +45,49 @@ Claude can generate complete, formatted documents as downloadable files—useful
 ### Report Generation
 
 ```
-Context: I need a [report type] for [purpose].
-Audience: [who]
+Context: I need a [report type] for [purpose]. This will be read by 
+[audience] and used to [decision/action it supports].
+
+Language: [Professional/executive/technical]. 
+Tone: [Balanced/persuasive/analytical].
+
+Examples: Structure as a consulting-quality deliverable:
+- Executive summary (1 page)
+- Main sections with clear headings
+- Supporting detail in appendices if needed
+
+Audience: [Who]—they expect [format/length/style] and will use this to [purpose].
 
 Request: Create a Word document with:
-- [Section 1]
-- [Section 2]
-- [Section 3]
 - Table of contents
+- [Section 1]: [description]
+- [Section 2]: [description]
+- [Section 3]: [description]
 - Page numbers and headers
 - Total length: [X pages]
+Make it ready to share without editing.
 ```
 
 ### Presentation
 
 ```
-Create a [X]-slide PowerPoint for [topic].
+Context: I need a presentation on [topic] for [audience/occasion].
+Goal: [What should they think, feel, or do after watching?]
 
-Structure:
+Language: [Inspiring/analytical/urgent]. Minimal text—headlines and bullets only.
+
+Examples: Follow assertion-evidence format:
+- Headline states the point
+- Body provides supporting evidence
+- No full sentences in bullets
+
+Audience: [Who]—presenting for [X minutes]. They care about [priorities].
+
+Request: Create a [X]-slide PowerPoint with:
 1. [Slide 1 purpose]
 2. [Slide 2 purpose]
 ...
-
-Include speaker notes.
-Make it presentation-ready.
+Include speaker notes for each slide.
 Export as .pptx
 ```
 

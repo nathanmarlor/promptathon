@@ -58,35 +58,64 @@ This folder includes sample data files you can use:
 ### Data Exploration
 
 ```
-Analyse this data and tell me:
-- What are the key trends visible in this dataset?
-- Are there any anomalies or outliers I should investigate?
-- What are the top 5 insights a business leader would want to know?
+Context: I've just opened a dataset with [description]. I need to understand 
+what's here before diving into specific analysis.
 
+Language: Business-friendly observations, not statistical jargon.
+
+Examples: Structure findings as:
+- Key patterns (what's happening)
+- Anomalies (what's unexpected)
+- Questions this data could answer
+
+Audience: Me—getting oriented before detailed analysis.
+
+Request: Analyse this data and tell me:
+- What are the key trends visible?
+- Are there anomalies or outliers to investigate?
+- What are the top 5 insights a business leader would want to know?
 Focus on patterns that suggest action, not just description.
 ```
 
 ### Specific Analysis
 
 ```
-Compare performance across [column name: Region/Product/Team].
+Context: I need to compare performance across [column: Region/Product/Team] 
+for [purpose: a leadership review/board presentation/planning session].
 
-Show me:
+Language: Comparative, focused on differences that matter.
+
+Examples: Structure as:
+- Top performers (and why)
+- Bottom performers (and potential causes)
+- Trends over time
+- Recommended actions
+
+Audience: [Business leaders] who want actionable insight, not raw data.
+
+Request: Compare performance across [column name]. Show me:
 - Which is performing best and worst
 - The gap between top and bottom performers
-- Any notable trends over time
+- Notable trends over time
 - What this suggests we should do
 ```
 
 ### Formula Generation
 
 ```
-Create a formula that calculates [specific metric].
+Context: I need a formula to calculate [specific metric] for [purpose].
 
-Examples:
-- "Calculate year-over-year growth percentage"
-- "Add a column showing running total of revenue"
-- "Calculate percentage each region contributes to total"
+Language: Clear explanation of what the formula does.
+
+Examples: Show me:
+- The formula itself
+- How to apply it
+- What inputs it needs
+
+Audience: Someone with [basic/intermediate] Excel skills.
+
+Request: Create a formula that calculates [specific metric].
+Explain what it does and how to use it.
 ```
 
 ---

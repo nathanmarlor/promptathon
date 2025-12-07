@@ -46,7 +46,14 @@ situation against one other vendor. The customer's stated priorities were:
 reducing manual processes, improving visibility into production data, and 
 integrating with their existing ERP.
 
-Language: Critical but constructive. This needs honest feedback.
+Language: Critical but constructive. Be direct about problems.
+
+Examples: Structure feedback as:
+1. Problems identified (specific, with line references)
+2. What's missing
+3. Rewritten sections (show before/after)
+
+Audience: Me and my team—we need to strengthen this before sending.
 
 Request: Review this proposal excerpt and identify:
 1. What's wrong with it (be specific)
@@ -95,11 +102,21 @@ Context: Long-standing customer (2 years), expressing frustration about an
 unresolved support issue affecting their operations. They're not threatening 
 to leave but trust is eroding. QBR with their leadership next week.
 
+Language: Empathetic, accountable, solutions-focused. No defensiveness.
+
+Examples: Structure as:
+- Analysis of their concerns
+- Response strategy
+- Draft message
+- Proactive next steps
+
+Audience: Me—preparing to respond and rebuild trust.
+
 Request: 
 1. Analyse the email—what are the explicit and implicit concerns?
 2. What's the appropriate response tone?
-3. Draft a response that: acknowledges the issue appropriately, provides 
-   the information they requested, and offers to support their internal QBR
+3. Draft a response that acknowledges the issue, provides what they requested, 
+   and offers to support their internal QBR
 4. What proactive steps should we take beyond the email response?
 ```
 

@@ -61,6 +61,15 @@ Context: Senior Business Analyst role in Financial Services.
 JD is 3 years old, candidates say it doesn't match reality. 
 Market is competitive for this skill set.
 
+Language: Critical, inclusive-aware. Flag issues diplomatically.
+
+Examples: Structure feedback as:
+- What works (keep)
+- What to change (with rewrites)
+- What's missing
+
+Audience: Hiring manager and HR partner—they need actionable improvements.
+
 Request: Review this job description for:
 1. Inclusive language issues (anything that might deter diverse candidates)
 2. Inflated or unrealistic requirements (what's truly essential vs nice-to-have)
@@ -114,13 +123,22 @@ Context: Marketing department reorg—3 teams to 2 teams, no job losses,
 8 people getting new managers. Previous reorg 18 months ago was 
 poorly received. Need to announce to all 24 people in the department.
 
+Language: Transparent, factual, empathetic. No corporate jargon.
+
+Examples: Structure as:
+1. What's changing
+2. Why
+3. What stays the same
+4. What happens next
+5. Who to contact
+
+Audience: All 24 department members—they will be anxious given past experience.
+
 Request: Draft the announcement addressing:
 1. What's changing (specific and clear)
 2. Why (business rationale, not corporate speak)
 3. What stays the same (job security, levels)
 4. What happens next (timeline, individual conversations)
-5. Anticipated concerns and how to address them
-
-Tone: Transparent, factual, empathetic. Avoid corporate jargon.
+5. Anticipated concerns and how to address them proactively
 ```
 
