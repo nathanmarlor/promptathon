@@ -1,0 +1,42 @@
+Customer_ID,Company_Name,Industry,Account_Manager,NPS_Score,CSAT_Score,Support_Tickets_Q4,Contract_Value,Renewal_Date,Risk_Level,Last_Contact_Days
+C001,Acme Industries,Manufacturing,Rachel Green,72,4.2,3,85000,2025-03-15,Low,5
+C002,TechCorp Solutions,Technology,David Kim,45,3.1,12,120000,2025-02-28,High,32
+C003,Global Retail Ltd,Retail,Rachel Green,68,4.0,5,62000,2025-06-30,Low,8
+C004,Financial Partners,Financial Services,Marcus Johnson,82,4.5,1,210000,2025-04-15,Low,3
+C005,HealthFirst Medical,Healthcare,Sarah Mitchell,38,2.8,18,95000,2025-01-31,High,45
+C006,BuildRight Construction,Construction,David Kim,55,3.5,8,78000,2025-05-15,Medium,21
+C007,EduLearn Academy,Education,Marcus Johnson,75,4.3,2,45000,2025-07-31,Low,7
+C008,GreenEnergy Corp,Energy,Rachel Green,62,3.8,6,135000,2025-03-31,Medium,14
+C009,TransportPro Logistics,Transportation,Sarah Mitchell,48,3.2,11,88000,2025-02-15,High,28
+C010,MediaMax Broadcasting,Media,David Kim,71,4.1,4,156000,2025-08-31,Low,6
+C011,FoodService United,Food & Beverage,Marcus Johnson,59,3.6,7,72000,2025-04-30,Medium,18
+C012,LegalEagle Associates,Professional Services,Rachel Green,85,4.6,1,98000,2025-06-15,Low,4
+C013,PharmaCare Labs,Pharmaceutical,Sarah Mitchell,42,3.0,14,185000,2025-01-15,High,38
+C014,AutoDrive Motors,Automotive,David Kim,66,3.9,5,142000,2025-09-30,Low,9
+C015,CloudNine Hosting,Technology,Marcus Johnson,78,4.4,2,225000,2025-05-31,Low,2
+C016,SecureBank Financial,Financial Services,Rachel Green,51,3.3,9,175000,2025-02-28,Medium,25
+C017,SmartHome Devices,Consumer Electronics,Sarah Mitchell,35,2.7,16,68000,2025-03-15,High,52
+C018,AgriGrow Farms,Agriculture,David Kim,73,4.2,3,55000,2025-07-15,Low,11
+C019,ChemWorks Industrial,Chemical,Marcus Johnson,58,3.5,8,112000,2025-04-15,Medium,19
+C020,TravelWise Tours,Travel,Rachel Green,44,3.1,13,48000,2025-01-31,High,35
+C021,InsureSafe Group,Insurance,Sarah Mitchell,81,4.5,2,198000,2025-08-15,Low,5
+C022,DataStream Analytics,Technology,David Kim,69,4.0,4,165000,2025-06-30,Low,8
+C023,PrintMaster Services,Manufacturing,Marcus Johnson,52,3.4,10,82000,2025-02-15,Medium,22
+C024,SportsFit Equipment,Retail,Rachel Green,76,4.3,3,91000,2025-05-15,Low,6
+C025,CleanTech Solutions,Environmental,Sarah Mitchell,40,2.9,15,74000,2025-03-31,High,41
+C026,RealEstate Premier,Real Estate,David Kim,67,3.9,5,128000,2025-09-15,Low,10
+C027,TelecomPlus Networks,Telecommunications,Marcus Johnson,54,3.4,9,245000,2025-04-30,Medium,20
+C028,BioResearch Institute,Biotechnology,Rachel Green,88,4.7,1,178000,2025-07-31,Low,3
+C029,PackageExpress Delivery,Logistics,Sarah Mitchell,47,3.2,12,65000,2025-01-15,High,30
+C030,CyberShield Security,Technology,David Kim,79,4.4,2,195000,2025-06-15,Low,4
+C031,FashionForward Retail,Retail,Marcus Johnson,61,3.7,6,58000,2025-02-28,Medium,15
+C032,PowerGrid Utilities,Utilities,Rachel Green,74,4.2,3,215000,2025-08-31,Low,7
+C033,MiningCorp Resources,Mining,Sarah Mitchell,39,2.8,17,148000,2025-03-15,High,48
+C034,AeroSpace Dynamics,Aerospace,David Kim,83,4.5,1,285000,2025-05-31,Low,2
+C035,ConsultPro Advisors,Professional Services,Marcus Johnson,70,4.1,4,92000,2025-04-15,Low,9
+C036,GameWorld Entertainment,Entertainment,Rachel Green,56,3.5,8,75000,2025-01-31,Medium,23
+C037,WaterWorks Management,Utilities,Sarah Mitchell,46,3.1,11,108000,2025-07-15,High,33
+C038,TextileCraft Industries,Manufacturing,David Kim,64,3.8,6,86000,2025-06-30,Medium,12
+C039,DigitalAds Agency,Marketing,Marcus Johnson,77,4.3,2,134000,2025-02-15,Low,5
+C040,SafetyFirst Equipment,Industrial,Rachel Green,50,3.3,10,97000,2025-09-30,Medium,26
+
