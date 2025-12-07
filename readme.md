@@ -113,6 +113,7 @@ Request: [deliverable, length]
 
 | Resource | Description |
 |----------|-------------|
+| [Use Cases by Function](docs/use-cases.md) | Quick-win applications and candidate checklist |
 | [Full Guide](docs/guide.md) | CLEAR framework, techniques, when to use AI, troubleshooting |
 | [Prompt Library](docs/prompt-library.md) | Copy-paste prompts for common tasks |
 | [Quick Reference](docs/quick-reference.md) | Printable one-page summary |
@@ -146,4 +147,4 @@ Request: [deliverable, length]
 
 ---
 
-*Facilitator: Nathan*
+*Facilitator: Nathan Marlor, Head of AI*

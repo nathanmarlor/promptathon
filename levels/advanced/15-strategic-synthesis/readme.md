@@ -98,12 +98,21 @@ Key uncertainties:
 - [Uncertainty 2: e.g., competitive response]
 - [Uncertainty 3: e.g., regulatory environment]
 
+Language: Strategic, narrative-driven. Each scenario should tell a coherent story.
+
+Examples: For each scenario, provide:
+- Narrative description (2-3 sentences)
+- Key characteristics
+- Probability assessment
+- Strategic implications
+
+Audience: Executive team and board—they need scenarios that inform resource allocation.
+
 Request:
 1. Develop 3-4 distinct, plausible scenarios
-2. For each scenario: narrative description, key characteristics, 
-   probability assessment, strategic implications
+2. For each: narrative, characteristics, probability, implications
 3. Identify "no regret" moves that work across scenarios
-4. Identify trigger points that would signal which scenario is emerging
+4. Identify trigger points signalling which scenario is emerging
 5. Recommend scenario-specific contingencies
 ```
 
@@ -111,10 +120,21 @@ Request:
 
 ```
 Context: Our strategy assumes [key assumption]. I want to stress-test 
-this assumption rigorously.
+this assumption rigorously before we commit resources.
 
 Current strategy: [brief description]
 Key assumption: [the assumption to test]
+
+Language: Rigorous, challenging. Don't validate—interrogate.
+
+Examples: Structure as:
+- Conditions for assumption to hold
+- Supporting/contradicting evidence
+- Failure impact
+- Early warning signs
+- Hedging options
+
+Audience: Strategy team and board—they need confidence the assumption has been tested.
 
 Request:
 1. What would need to be true for this assumption to hold?

@@ -57,23 +57,14 @@ This folder includes sample data files you can use:
 
 ### Data Exploration
 
+A simple prompt to get oriented:
+
 ```
-Context: I've just opened a dataset with [description]. I need to understand 
-what's here before diving into specific analysis.
-
-Language: Business-friendly observations, not statistical jargon.
-
-Examples: Structure findings as:
-- Key patterns (what's happening)
-- Anomalies (what's unexpected)
-- Questions this data could answer
-
-Audience: Me—getting oriented before detailed analysis.
-
-Request: Analyse this data and tell me:
-- What are the key trends visible?
+Analyse this data and tell me:
+- What are the key trends?
 - Are there anomalies or outliers to investigate?
 - What are the top 5 insights a business leader would want to know?
+
 Focus on patterns that suggest action, not just description.
 ```
 
@@ -103,20 +94,14 @@ Request: Compare performance across [column name]. Show me:
 ### Formula Generation
 
 ```
-Context: I need a formula to calculate [specific metric] for [purpose].
-
-Language: Clear explanation of what the formula does.
-
-Examples: Show me:
-- The formula itself
-- How to apply it
-- What inputs it needs
-
-Audience: Someone with [basic/intermediate] Excel skills.
-
-Request: Create a formula that calculates [specific metric].
+Create a formula that calculates [specific metric].
 Explain what it does and how to use it.
 ```
+
+Examples:
+- "Calculate year-over-year growth percentage for each row"
+- "Add a column showing running total of revenue"
+- "Calculate what percentage each region contributes to the total"
 
 ---
 

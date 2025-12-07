@@ -98,5 +98,36 @@ Create a dropdown to toggle between scenarios.
 
 ---
 
+## Key Technique: Describe the Logic, Not the Formula
+
+> **The insight:** Ask for what the model should DO, not what formula to use. AI can translate business logic into Excel formulas.
+
+**Weak:** "Create a SUMIFS formula for this data."
+
+**Strong:** "I need to calculate total revenue by region, but only for deals that closed this quarter. Show me the formula and explain how to adapt it for different filters."
+
+Describing the business requirement lets AI choose the right approach and explain it in context.
+
+---
+
+## Common Mistakes
+
+| Mistake | Problem | Fix |
+|---------|---------|-----|
+| No clear input/output separation | Model becomes hard to audit | Specify "inputs section" and "outputs section" |
+| Hardcoded numbers in formulas | Model breaks when assumptions change | Ask for named ranges and input cells |
+| Too complex in one prompt | Model structure gets confused | Build incrementally: structure first, then calculations |
+| No documentation request | Others can't understand or maintain | Ask for comments and a documentation tab |
+
+---
+
+## Debrief Questions
+
+1. Could someone else use this model without explanation?
+2. What would break if assumptions changed?
+3. How would you improve the model structure?
+
+---
+
 **[← Previous: Level 6](../06-excel-analysis/readme.md)** | **[Back to Main Guide](../../../readme.md)** | **[Next: Level 8 →](../08-presentation-building/readme.md)**
 

@@ -54,6 +54,8 @@ Claude can accept file uploads (CSV, Excel, PDF) and perform sophisticated analy
 
 ### Initial Exploration
 
+A simple prompt to get oriented before detailed analysis:
+
 ```
 I've uploaded [data description]. Before I ask specific questions:
 
@@ -62,6 +64,8 @@ I've uploaded [data description]. Before I ask specific questions:
 3. Identify any data quality issues
 4. Suggest 3-5 questions this data could answer
 ```
+
+Use the CLEAR framework (below) when you need specific, actionable analysis.
 
 ### CLEAR Framework for Analysis
 
